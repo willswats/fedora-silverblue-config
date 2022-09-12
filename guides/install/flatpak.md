@@ -5,34 +5,38 @@
 Disable all the extensions in "Extensions" and then run this command:
 
 ```bash
-flatpak uninstall —all —delete-data
+flatpak uninstall —all —delete-data -y
 ```
 
 In "Software" disable the Fedora flatpak repository.
 
 ## Install
 
-Add the Flathub flatpak repository from their [website](https://flathub.org).
+Add the Flathub flatpak repository:
+
+```bash
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
 
 ### Utilities
 
 ```bash
-flatpak install flathub org.mozilla.firefox
-flatpak install flathub com.vscodium.codium
-flatpak install flathub org.gimp.GIMP
-flatpak install flathub org.kde.kdenlive
-flatpak install flathub com.obsproject.Studio
-flatpak install flathub io.mpv.Mpv
-flatpak install flathub org.gnome.eog
-flatpak install flathub org.gnome.Boxes
-flatpak install flathub com.github.tchx84.Flatseal
+flatpak install flathub org.mozilla.firefox -y
+flatpak install flathub com.vscodium.codium -y
+flatpak install flathub org.gimp.GIMP -y
+flatpak install flathub org.kde.kdenlive -y
+flatpak install flathub com.obsproject.Studio -y
+flatpak install flathub io.mpv.Mpv -y
+flatpak install flathub org.gnome.eog -y
+flatpak install flathub org.gnome.Boxes -y
+flatpak install flathub com.github.tchx84.Flatseal -y
 ```
 
 ### Games
 
 ```bash
-flatpak install flathub com.valvesoftware.Steam
-flatpak install flathub org.libretro.RetroArch
-flatpak install flathub sh.ppy.osu
-flatpak install flathub net.veloren.airshipper
+flatpak install flathub com.valvesoftware.Steam -y
+flatpak install flathub org.libretro.RetroArch -y
+flatpak install flathub sh.ppy.osu -y
+flatpak install flathub net.veloren.airshipper -y
 ```

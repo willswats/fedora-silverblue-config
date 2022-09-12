@@ -1,15 +1,9 @@
-# rpm-ostree
+# Install
 
-## Upgrade
+## Upgrade, Install and Remove
 
 ```bash
 rpm-ostree upgrade
-systemctl reboot
-```
-
-## Install & Remove
-
-```bash
 rpm-ostree install gnome-tweaks
 rpm-ostree install fish
 rpm-ostree install distrobox
