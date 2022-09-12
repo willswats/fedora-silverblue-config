@@ -2,7 +2,7 @@
 
 ## Generating SSH Key
 
-Replace the email and run in your container:
+Replace the email and run:
 
 ```bash
 ssh-keygen -t ed25519 -C "your_email@example.com"
@@ -18,4 +18,12 @@ Run this command and input the output into the `Key` input on GitHub:
 
 ```bash
 cat ~/.ssh/id_ed25519.pub
+```
+
+## Connecting to GitHub
+
+Run this command, input the SSH passphrase when prompted, and enable automatic login:
+
+```bash
+ssh git@github.com -v
 ```
