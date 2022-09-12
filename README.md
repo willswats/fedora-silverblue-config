@@ -1,6 +1,6 @@
 # Fedora Silverblue Setup
 
-This repository contains config files and guides for my Fedora Silverblue setup.
+Configuration files and guides for my Fedora Silverblue setup.
 
 ## `guides`
 
