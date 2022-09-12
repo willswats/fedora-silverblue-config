@@ -1,7 +1,5 @@
 # rclone
 
-Run `rclone config` and create a new remote.
-
-Open `rclone.desktop` and replace `remote-name` with the name of your remote.
-
-Add `rclone.desktop` to `~/.config/autostart`
+1. Run `rclone config` and create a new remote.
+2. Open `rclone.desktop` and replace `remote-name` with the name of your remote.
+3. Add `rclone.desktop` to `~/.config/autostart`

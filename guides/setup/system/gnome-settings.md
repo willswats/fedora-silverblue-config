@@ -40,21 +40,17 @@ Natural Scroll (Laptop): Disabled
 Tap to click (Laptop): Enabled
 ```
 
-## About
+## Keyboard
 
-```text
-Device Name: {name-device}
-```
+### Keyboard Shortcuts
 
-## Keyboard Shortcuts
-
-### Launchers
+#### Launchers
 
 ```text
 Home folder: Super+E
 ```
 
-### Custom Shortcuts
+#### Custom Shortcuts
 
 ```text
 Name: Terminal
@@ -68,8 +64,8 @@ Command: gnome-system-monitor
 Shortcut Ctrl+Shift+Escape
 ```
 
+## About
+
 ```text
-Name: Neovim
-Command: gnome-terminal -- nvim
-Shortcut: Ctrl+Alt+N
+Device Name: {name-device}
 ```

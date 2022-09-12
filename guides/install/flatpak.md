@@ -32,6 +32,12 @@ flatpak install flathub org.gnome.Boxes -y
 flatpak install flathub com.github.tchx84.Flatseal -y
 ```
 
+## System
+
+```bash
+flatpak install flathub org.gnome.Logs
+```
+
 ### Games
 
 ```bash
