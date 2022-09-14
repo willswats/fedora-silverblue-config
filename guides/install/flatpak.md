@@ -35,7 +35,7 @@ flatpak install flathub com.github.tchx84.Flatseal -y
 ## System
 
 ```bash
-flatpak install flathub org.gnome.Logs
+flatpak install flathub org.gnome.Logs -y
 ```
 
 ### Games
