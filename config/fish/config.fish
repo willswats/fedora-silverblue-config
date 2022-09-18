@@ -16,14 +16,9 @@ alias main="distrobox enter main -- fish"
 
 alias mpv="flatpak run io.mpv.Mpv"
 
-function playaudio
+function mpvaudio
     clear
-    flatpak run io.mpv.Mpv --no-audio-display --volume=50 $argv
-end
-
-function playaudioshuffle
-    clear
-    flatpak run io.mpv.Mpv --no-audio-display --shuffle --volume=50 $argv
+    flatpak run io.mpv.Mpv --volume=50 $argv
 end
 
 # youtube-dl
