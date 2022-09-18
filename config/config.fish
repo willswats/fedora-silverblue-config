@@ -29,3 +29,9 @@ end
 # youtube-dl
 
 alias ytdlmp3="youtube-dl --rm-cache-dir --add-metadata --embed-thumbnail --extract-audio --audio-format mp3"
+
+# wireguard-tools
+
+alias vpnon="wg-quick up gb-lon-wg-101"
+
+alias vpnoff="wg-quick down gb-lon-wg-101"
