@@ -23,7 +23,9 @@ end
 
 # youtube-dl
 
-alias ytdlmp3="youtube-dl --rm-cache-dir --add-metadata --embed-thumbnail --extract-audio --audio-format mp3"
+alias ytdlmp3="youtube-dl --rm-cache-dir --add-metadata --embed-thumbnail --extract-audio --audio-format mp3 -o '%(title)s.%(ext)s'"
+
+alias ytdlmusic="youtube-dl --rm-cache-dir --add-metadata --embed-thumbnail --extract-audio --audio-format mp3 -o '%(artist)s - %(track)s.%(ext)s'"
 
 # wireguard-tools
 
