@@ -14,7 +14,7 @@ alias main="distrobox enter main -- fish"
 
 # mpv
 
-alias mpv="flatpak run io.mpv.Mpv --volume=50"
+alias mpv="flatpak run io.mpv.Mpv --ytdl-raw-options="yes-playlist=" --volume=50"
 
 # wireguard-tools
 
