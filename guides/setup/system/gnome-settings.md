@@ -55,13 +55,19 @@ Home folder: Super+E
 ```text
 Name: Terminal
 Command: gnome-terminal
-Shortcut Ctrl+Alt+T
+Shortcut: Ctrl+Alt+T
 ```
 
 ```text
 Name: System Monitor
 Command: gnome-system-monitor
-Shortcut Ctrl+Shift+Escape
+Shortcut: Ctrl+Shift+Escape
+```
+
+```text
+Name: mpv
+Command: flatpak run io.mpv.Mpv --player-operation-mode=pseudo-gui --volume=50
+Shortcut: Ctrl+Alt+M
 ```
 
 ## About
