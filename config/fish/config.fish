@@ -12,10 +12,6 @@ alias flatdel="flatpak uninstall --delete-data"
 
 alias main="distrobox enter main -- fish"
 
-# mpv
-
-alias mpv="flatpak run io.mpv.Mpv --ytdl-raw-options="yes-playlist=" --volume=50"
-
 # wireguard-tools
 
 alias vpnon="wg-quick up gb-lon-wg-101"

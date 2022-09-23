@@ -1,6 +1,6 @@
-# Install
+# rpm-ostree
 
-## Upgrade, Install and Remove
+## Upgrade, Install, and Remove
 
 ```bash
 rpm-ostree upgrade
@@ -36,7 +36,7 @@ sudo chown gdm:gdm /var/lib/gdm/.config/monitors.xml  # change ownership to gdm 
 
 The RPM built by the official OpenTabletDriver repository is broken, instead download the RPM from [here](https://github.com/hwsmm/OpenTabletDriver.Packaging/releases/tag/test).
 
-Add the `OpenTabletDriver.Daemon.desktop` to `.config/autostart`.
+Add the `config/OpenTabletDriver/OpenTabletDriver.Daemon.desktop` to `~/.config/autostart`.
 
 ```bash
 rpm-ostree install OpenTabletDriver.rpm

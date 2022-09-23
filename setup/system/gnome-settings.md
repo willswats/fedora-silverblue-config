@@ -66,7 +66,7 @@ Shortcut: Ctrl+Shift+Escape
 
 ```text
 Name: mpv
-Command: flatpak run io.mpv.Mpv --player-operation-mode=pseudo-gui --ytdl-raw-options="yes-playlist=" --volume=50
+Command: flatpak run io.mpv.Mpv
 Shortcut: Ctrl+Alt+M
 ```
 

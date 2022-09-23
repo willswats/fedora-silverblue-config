@@ -32,7 +32,7 @@ flatpak install flathub org.gnome.Boxes -y
 flatpak install flathub com.github.tchx84.Flatseal -y
 ```
 
-## System
+### System
 
 ```bash
 flatpak install flathub org.gnome.Logs -y
