@@ -50,6 +50,10 @@ Tap to click (Laptop): Enabled
 Home folder: Super+E
 ```
 
+```text
+Launch web browser: Super+W
+```
+
 #### Custom Shortcuts
 
 ```text
@@ -66,7 +70,7 @@ Shortcut: Ctrl+Shift+Escape
 
 ```text
 Name: mpv
-Command: flatpak run io.mpv.Mpv
+Command: flatpak run io.mpv.Mpv --player-operation-mode="pseudo-gui"
 Shortcut: Ctrl+Alt+M
 ```
 
