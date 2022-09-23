@@ -1,6 +1,12 @@
-# Fedora Silverblue Setup
+# Fedora Silverblue Setup <!-- omit in toc -->
 
 Configuration files and guides for my Fedora Silverblue setup.
+
+## Table of Contents <!-- omit in toc -->
+
+- [Install](#install)
+- [Setup System](#setup-system)
+- [Setup Applications](#setup-applications)
 
 ## Install
 
