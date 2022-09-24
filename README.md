@@ -26,7 +26,7 @@ Configuration files and guides for my Fedora Silverblue setup.
 1. [distrobox](./setup/applications/distrobox.md)
 2. [fish](./setup/applications/fish.md)
 3. [git](./setup/applications/git.md)
-4. [ssh](./setup/applications/ssh)
+4. [ssh](./setup/applications/ssh.md)
 5. [rclone](./setup/applications/rclone.md)
 6. [wireguard-tools](./setup/applications/wireguard-tools.md)
 7. [mpv](./setup/applications/mpv.md)
