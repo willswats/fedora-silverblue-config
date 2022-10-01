@@ -47,7 +47,7 @@ Tap to click (Laptop): Enabled
 #### Launchers
 
 ```text
-Home folder: Super+E
+Home folder: Super+F
 ```
 
 ```text
