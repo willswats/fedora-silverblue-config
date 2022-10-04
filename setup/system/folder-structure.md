@@ -12,4 +12,4 @@ mkdir -p ~/Local/Distrobox/main
 
 ## Bookmark
 
-Add `Repositories` and `Distrobox` as bookmarks.
+Add `Local` as a bookmark.

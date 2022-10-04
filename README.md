@@ -1,6 +1,6 @@
-# Fedora Silverblue Setup <!-- omit in toc -->
+# Fedora Silverblue Config <!-- omit in toc -->
 
-Configuration files and guides for my Fedora Silverblue setup.
+My Fedora Silverblue config.
 
 ## Table of Contents <!-- omit in toc -->
 
