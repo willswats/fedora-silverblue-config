@@ -38,11 +38,12 @@ flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub org.gnome.Logs -y
 ```
 
-### Games
+### Entertainment
 
 ```bash
 flatpak install flathub com.valvesoftware.Steam -y
 flatpak install flathub org.libretro.RetroArch -y
 flatpak install flathub sh.ppy.osu -y
 flatpak install flathub net.veloren.airshipper -y
+flatpak install flathub com.discordapp.Discord
 ```
