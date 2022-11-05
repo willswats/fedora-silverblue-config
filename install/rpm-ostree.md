@@ -8,7 +8,7 @@ rpm-ostree install gnome-tweaks
 rpm-ostree install fish
 rpm-ostree install distrobox
 rpm-ostree install wireguard-tools
-rpm-ostree install rclone-browser
+rpm-ostree install rclone
 rpm-ostree override remove firefox
 rpm-ostree override remove gnome-tour
 rpm-ostree override remove toolbox
