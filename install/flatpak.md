@@ -36,7 +36,7 @@ flatpak install flathub com.github.tchx84.Flatseal -y
 ### System
 
 ```bash
-flatpak install flathub org.gnome.Logs -y
+flatpak install flathub com.mattjakeman.ExtensionManager -y
 ```
 
 ### Entertainment

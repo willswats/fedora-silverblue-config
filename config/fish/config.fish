@@ -15,9 +15,3 @@ alias main="distrobox enter main -- fish"
 # mpv
 
 alias mpv="flatpak run io.mpv.Mpv"
-
-# wireguard-tools
-
-alias vpnon="wg-quick up gb-lon-wg-101"
-
-alias vpnoff="wg-quick down gb-lon-wg-101"
