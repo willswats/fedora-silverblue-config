@@ -6,6 +6,9 @@ My Fedora Silverblue config.
 
 - [Install](#install)
 - [Setup](#setup)
+  - [GUI](#gui)
+  - [System](#system)
+  - [Terminal](#terminal)
 
 ## Install
 
@@ -14,18 +17,26 @@ My Fedora Silverblue config.
 
 ## Setup
 
-1. [gnome-settings](./setup/gnome-settings.md)
-2. [gnome-tweaks](./setup/gnome-tweaks.md)
-3. [gnome-terminal](./setup/gnome-terminal.md)
-4. [gnome-disks](./setup/gnome-disks.md)
-5. [extension-manager](./setup/extension-manager.md)
-6. [folder-structure](./setup/folder-structure.md)
-7. [distrobox](./setup/distrobox.md)
-8. [fish](./setup/fish.md)
-9. [git](./setup/git.md)
-10. [ssh](./setup/ssh.md)
-11. [rclone](./setup/rclone.md)
-12. [mullvad-vpn](./setup//mullvad-vpn.md)
-13. [mpv](./setup/mpv.md)
-14. [firefox](./setup/firefox.md)
-15. [steam](./setup/steam.md)
+### GUI
+
+1. [gnome-settings](./setup/gui/gnome-settings.md)
+2. [gnome-tweaks](./setup/gui/gnome-tweaks.md)
+3. [gnome-terminal](./setup/gui/gnome-terminal.md)
+4. [gnome-disks](./setup/gui/gnome-disks.md)
+5. [extension-manager](./setup/gui/extension-manager.md)
+6. [firefox](./setup/gui/firefox.md)
+7. [mpv](./setup/gui/mpv.md)
+8. [mullvad-vpn](./setup/gui/mullvad-vpn.md)
+9. [steam](./setup/gui/steam.md)
+
+### System
+
+1. [folder-structure](./setup/system/folder-structure.md)
+
+### Terminal
+
+1. [distrobox](./setup/terminal/distrobox.md)
+2. [fish](./setup/terminal/fish.md)
+3. [git](./setup/terminal/git.md)
+4. [ssh](./setup/terminal/ssh.md)
+5. [rclone](./setup/terminal/rclone.md)
