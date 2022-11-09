@@ -3,7 +3,13 @@
 ## Create
 
 ```bash
-distrobox create --name main --home ~/Local/Distrobox/main
+distrobox create --no-entry --name main --home ~/Local/Distrobox/main
+```
+
+## Enter
+
+```bash
+distrobox enter main
 ```
 
 ## Update
@@ -13,6 +19,8 @@ sudo dnf update
 ```
 
 ## Install
+
+### fish
 
 ```bash
 sudo dnf install fish
@@ -26,7 +34,7 @@ Install nvm:
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
 
-Install latest node:
+Close and reopen the terminal, then install node:
 
 ```bash
 nvm install node

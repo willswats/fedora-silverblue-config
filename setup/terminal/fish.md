@@ -1,5 +1,5 @@
 # fish
 
-Add `config.fish` to `~/.config/fish` and `~/Local/Distrobox/main`.
+Add `config.fish` to `~/.config/fish` and `~/Local/Distrobox/main/.config/fish`.
 
-Note: `config.fish` adds useful `alias` commands, read through them and use the ones you find useful.
+Note: `config.fish` adds the `flatdel` alias, use it to remove flatpak applications.

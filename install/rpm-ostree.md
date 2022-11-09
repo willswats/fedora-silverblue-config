@@ -14,6 +14,14 @@ rpm-ostree override remove gnome-tour
 rpm-ostree override remove toolbox
 ```
 
+## Mullvad VPN
+
+Download and `rpm-ostree install` the [RPM](https://mullvad.net/en/download/linux/).
+
+```bash
+sudo systemctl enable --now mullvad-daemon
+```
+
 ## Nvidia Drivers
 
 Enable the NVIDIA repository in "Software" and then run these commands:
@@ -28,14 +36,6 @@ If the login screen is on the incorrect monitor, run these commands after config
 ```bash
 sudo cp -v ~/.config/monitors.xml /var/lib/gdm/.config/ # copy config to gdm
 sudo chown gdm:gdm /var/lib/gdm/.config/monitors.xml  # change ownership to gdm user
-```
-
-## Mullvad VPN
-
-Download and `rpm-ostree install` the [RPM](https://mullvad.net/en/download/linux/).
-
-```bash
-sudo systemctl enable --now mullvad-daemon
 ```
 
 ## Open Tablet Driver
