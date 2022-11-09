@@ -1,17 +1,11 @@
-if status is-interactive
-    # Commands to run in interactive sessions can go here
-end
-
+# Remove fish greeting
 set -g fish_greeting
 
-# flatpak
-
+# Add flatpak delete data alias
 alias flatdel="flatpak uninstall --delete-data"
 
-# distrobox
-
+# Add alias to enter main
 alias main="distrobox enter main -- fish"
 
-# mpv
-
+# Add alias to run mpv
 alias mpv="flatpak run io.mpv.Mpv"
