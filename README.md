@@ -8,7 +8,7 @@ My Fedora Silverblue config.
 - [Setup](#setup)
   - [GUI](#gui)
   - [System](#system)
-  - [Terminal](#terminal)
+  - [CLI](#cli)
 
 ## Install
 
@@ -34,10 +34,10 @@ My Fedora Silverblue config.
 
 1. [folder-structure](./setup/system/folder-structure.md)
 
-### Terminal
+### CLI
 
-1. [distrobox](./setup/terminal/distrobox.md)
-2. [fish](./setup/terminal/fish.md)
-3. [git](./setup/terminal/git.md)
-4. [ssh](./setup/terminal/ssh.md)
-5. [rclone](./setup/terminal/rclone.md)
+1. [distrobox](./setup/cli/distrobox.md)
+2. [fish](./setup/cli/fish.md)
+3. [git](./setup/cli/git.md)
+4. [ssh](./setup/cli/ssh.md)
+5. [rclone](./setup/cli/rclone.md)
