@@ -8,7 +8,7 @@ Replace the email and run:
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
-Set the passphrase and save it.
+Press enter until you are prompted to set the passphrase, then set the passphrase to something and save it somewhere.
 
 ## Adding SSH key to GitHub
 
