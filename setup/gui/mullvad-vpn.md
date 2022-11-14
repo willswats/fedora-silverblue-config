@@ -1,6 +1,14 @@
 # mullvad-vpn
 
-## User interface settings
+## Enable mullvad-daemon
+
+```bash
+sudo systemctl enable --now mullvad-daemon
+```
+
+## Settings
+
+### User interface settings
 
 ```text
 Monochromatic tray icon: enabled
@@ -10,7 +18,7 @@ Monochromatic tray icon: enabled
 Start minimized: enabled
 ```
 
-## VPN settings
+### VPN settings
 
 ```text
 Launch app on start-up: enabled

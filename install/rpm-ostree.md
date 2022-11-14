@@ -13,14 +13,6 @@ rpm-ostree override remove gnome-tour
 rpm-ostree override remove toolbox
 ```
 
-## Mullvad VPN
-
-Download and `rpm-ostree install` the [RPM](https://mullvad.net/en/download/linux/).
-
-```bash
-sudo systemctl enable --now mullvad-daemon
-```
-
 ## Nvidia Drivers
 
 Enable the NVIDIA repository in "Software" and then run these commands:
@@ -39,10 +31,20 @@ sudo chown gdm:gdm /var/lib/gdm/.config/monitors.xml  # change ownership to gdm 
 
 ## Open Tablet Driver
 
-The RPM built by the official OpenTabletDriver repository is broken, instead download the RPM from [here](https://github.com/hwsmm/OpenTabletDriver.Packaging/releases/tag/test).
+The RPM built by the official OpenTabletDriver repository is currently broken, instead install the one built by hwsmm with these commands:
+
+```bash
+wget --content-disposition https://github.com/hwsmm/OpenTabletDriver.Packaging/releases/download/test/OpenTabletDriver.rpm -O ~/Downloads/OpenTabletDriver.rpm
+rpm-ostree install ~/Downloads/OpenTabletDriver.rpm
+```
 
 Add the `config/autostart/OpenTabletDriver.Daemon.desktop` to `~/.config/autostart`.
 
+## Mullvad VPN
+
+Run these commands to install Mullvad VPN:
+
 ```bash
-rpm-ostree install OpenTabletDriver.rpm
+wget --content-disposition https://mullvad.net/download/app/rpm/latest/ -O ~/Downloads/MullvadVPN.rpm
+rpm-ostree install ~/Downloads/MullvadVPN.rpm
 ```

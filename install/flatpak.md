@@ -2,8 +2,6 @@
 
 ## Uninstall
 
-Disable all the extensions in "Extensions" and then run this command:
-
 ```bash
 flatpak uninstall —all —delete-data -y
 ```
