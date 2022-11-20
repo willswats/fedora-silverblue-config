@@ -24,11 +24,9 @@ My Fedora Silverblue config.
 3. [gnome-terminal](./setup/gui/gnome-terminal.md)
 4. [gnome-disks](./setup/gui/gnome-disks.md)
 5. [extension-manager](./setup/gui/extension-manager.md)
-6. [firefox](./setup/gui/firefox.md)
-7. [vscodium](./setup/gui/vscodium.md)
-8. [mpv](./setup/gui/mpv.md)
-9. [mullvad-vpn](./setup/gui/mullvad-vpn.md)
-10. [steam](./setup/gui/steam.md)
+6. [mpv](./setup/gui/mpv.md)
+7. [mullvad-vpn](./setup/gui/mullvad-vpn.md)
+8. [steam](./setup/gui/steam.md)
 
 ### System
 
