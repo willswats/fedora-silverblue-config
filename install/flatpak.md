@@ -20,7 +20,7 @@ In "Software" disable the "fedora" flatpak repository and enable the "Fedora Fla
 
 ```bash
 flatpak install flathub org.mozilla.firefox -y
-flatpak install flathub com.visualstudio.code -y
+flatpak install flathub com.vscodium.codium -y
 flatpak install flathub org.gnome.Boxes -y
 flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub org.kde.kdenlive -y
