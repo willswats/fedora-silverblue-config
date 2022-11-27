@@ -15,3 +15,6 @@ alias mpv="flatpak run io.mpv.Mpv"
 
 # Add docker alias for podman
 alias docker="podman"
+
+# Set PATH for cargo (https://github.com/rust-lang/rustup/issues/478)
+set PATH $HOME/.cargo/bin $PATH
