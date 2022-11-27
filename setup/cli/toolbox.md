@@ -13,4 +13,5 @@ sudo dnf update
 ```bash
 sudo dnf install fish
 sudo dnf install nodejs
+sudo dnf install gcc
 ```
