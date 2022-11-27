@@ -6,7 +6,8 @@ Run these commands:
 
 ```bash
 mkdir ~/Drive
-mkdir ~/Local
+mkdir -p ~/Code/GitHub
+mkdir -p ~/Code/Local
 ```
 
 ## Bookmark
