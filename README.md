@@ -35,7 +35,7 @@ My Fedora Silverblue config.
 
 ### CLI
 
-1. [distrobox](./setup/cli/distrobox.md)
+1. [toolbox](./setup/cli/toolbox.md)
 2. [fish](./setup/cli/fish.md)
 3. [git](./setup/cli/git.md)
 4. [ssh](./setup/cli/ssh.md)
