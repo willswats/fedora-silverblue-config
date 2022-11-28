@@ -41,4 +41,4 @@ My Fedora Silverblue config.
 
 ### system
 
-1. [Directory Structure](./setup/system/directory-structure.md)
+1. [Directory Structure](./docs/setup/system/directory-structure.md)
