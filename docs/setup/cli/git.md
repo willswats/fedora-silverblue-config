@@ -1,4 +1,9 @@
 # git
 
-1. Copy `.gitconfig` to `~`.
-2. Open `.gitconfig` and set the `email` to your email address and set the `name` to your username.
+Replace the `#username` with you username and `#email` with your email:
+
+```bash
+git config --global init.defaultBranch main
+git config --global user.name #username
+git config --global user.email #email
+```

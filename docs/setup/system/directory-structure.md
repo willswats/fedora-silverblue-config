@@ -10,4 +10,4 @@ mkdir -p ~/Code/Local
 
 ### Bookmark
 
-Add `Local` as a bookmark in Nautilus.
+Add `Code` as a bookmark in Nautilus.
