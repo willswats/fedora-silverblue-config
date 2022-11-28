@@ -1,4 +1,4 @@
-# gnome-terminal
+# GNOME terminal
 
 ## Preferences
 

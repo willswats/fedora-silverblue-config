@@ -4,42 +4,41 @@ My Fedora Silverblue config.
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Install](#install)
+- [Installation](#installation)
 - [Setup](#setup)
   - [gui](#gui)
   - [cli](#cli)
   - [system](#system)
 
-## Install
+## Installation
 
-1. [rpm-ostree](./install/rpm-ostree.md)
-2. [flatpak](./install/flatpak.md)
+1. [rpm-ostree](./docs/install/rpm-ostree.md)
+2. [flatpak](./docs/install/flatpak.md)
 
 ## Setup
 
 ### gui
 
-1. [gnome-settings](./setup/gui/gnome-settings.md)
-2. [gnome-tweaks](./setup/gui/gnome-tweaks.md)
-3. [gnome-terminal](./setup/gui/gnome-terminal.md)
-4. [gnome-disks](./setup/gui/gnome-disks.md)
-5. [extension-manager](./setup/gui/extension-manager.md)
-6. [firefox](./setup/gui/firefox.md)
-7. [vscodium](./setup/gui/vscodium.md)
-8. [mpv](./setup/gui/mpv.md)
-9. [mullvad-vpn](./setup/gui/mullvad-vpn.md)
-10. [steam](./setup/gui/steam.md)
+1. [GNOME Settings](./docs/setup/gui/gnome-settings.md)
+2. [GNOME Tweaks](./docs/setup/gui/gnome-tweaks.md)
+3. [GNOME Terminal](./docs/setup/gui/gnome-terminal.md)
+4. [GNOME Disks](./docs/setup/gui/gnome-disks.md)
+5. [Extension Manager](./docs/setup/gui/extension-manager.md)
+6. [VSCodium](./docs/setup/gui/vscodium.md)
+7. [mpv](./docs/setup/gui/mpv.md)
+8. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
+9. [Steam](./docs/setup/gui/steam.md)
 
 ### cli
 
-1. [fish](./setup/cli/fish.md)
-2. [git](./setup/cli/git.md)
-3. [ssh](./setup/cli/ssh.md)
-4. [rclone](./setup/cli/rclone.md)
-5. [toolbox](./setup/cli/toolbox.md)
-6. [rustup](./setup/cli/rustup.md)
-7. [fnm](./setup/cli/fnm.md)
+1. [fish](./docs/setup/cli/fish.md)
+2. [git](./docs/setup/cli/git.md)
+3. [ssh](./docs/setup/cli/ssh.md)
+4. [rclone](./docs/setup/cli/rclone.md)
+5. [toolbox](./docs/setup/cli/toolbox.md)
+6. [rustup](./docs/setup/cli/rustup.md)
+7. [fnm](./docs/setup/cli/fnm.md)
 
 ### system
 
-1. [system](./setup/system/folder-structure.md)
+1. [Directory Structure](./setup/system/directory-structure.md)

@@ -1,4 +1,4 @@
-# gnome-tweaks
+# GNOME tweaks
 
 ## Appearance
 

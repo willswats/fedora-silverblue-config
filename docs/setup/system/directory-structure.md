@@ -1,4 +1,4 @@
-# system
+# Directory Structure
 
 ## Create Directories
 

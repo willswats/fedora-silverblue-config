@@ -1,4 +1,4 @@
-# steam
+# Steam
 
 ## flatpak override
 

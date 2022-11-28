@@ -12,4 +12,5 @@ toolbox enter main
 ```bash
 sudo dnf update -y
 sudo dnf install fish -y
+sudo dnf install gcc -y
 ```

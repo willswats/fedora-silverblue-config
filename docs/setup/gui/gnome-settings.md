@@ -1,4 +1,4 @@
-# gnome-settings
+# GNOME Settings
 
 ## Appearance
 
