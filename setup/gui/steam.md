@@ -1,8 +1,11 @@
 # steam
 
-## Flatseal
+## flatpak override
 
-Open Flatseal and navigate to Steam, and then to the Filesystem section, under "Other files", add `/var/mnt` (allow steam to access other drives) and `/dev/uinput` (fix controllers).
+```bash
+flatpak --user override com.valvesoftware.Steam --filesystem=/dev/uninput # Fix controllers
+flatpak --user override com.valvesoftware.Steam --filesystem=/var/mnt # Allow steam to access other drives
+```
 
 ## Steam Settings
 

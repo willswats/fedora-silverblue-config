@@ -1,14 +1,23 @@
 # mullvad-vpn
 
-## Enable mullvad-daemon
+## Install
+
+```bash
+wget --content-disposition https://mullvad.net/download/app/rpm/latest/ -O ~/Downloads/MullvadVPN.rpm
+rpm-ostree install ~/Downloads/MullvadVPN.rpm
+```
+
+## Setup
+
+### Enable mullvad-daemon
 
 ```bash
 sudo systemctl enable --now mullvad-daemon
 ```
 
-## Settings
+### Settings
 
-### User interface settings
+#### User interface settings
 
 ```text
 Monochromatic tray icon: enabled
@@ -18,7 +27,7 @@ Monochromatic tray icon: enabled
 Start minimized: enabled
 ```
 
-### VPN settings
+#### VPN settings
 
 ```text
 Launch app on start-up: enabled

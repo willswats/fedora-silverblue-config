@@ -1,15 +1,13 @@
-# folder-structure
+# system
 
 ## Create Directories
 
-Run these commands:
-
 ```bash
 mkdir ~/Drive
-mkdir -p ~/Code/GitHub
+mkdir -p ~/Code/Online
 mkdir -p ~/Code/Local
 ```
 
-## Bookmark
+### Bookmark
 
-Add `Local` as a bookmark.
+Add `Local` as a bookmark in Nautilus.
