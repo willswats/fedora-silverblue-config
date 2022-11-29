@@ -4,10 +4,10 @@
 
 ```bash
 mkdir ~/Drive
-mkdir -p ~/Code/Online
-mkdir -p ~/Code/Local
+mkdir -p ~/Local/GitHub
+mkdir -p ~/Local/Temp
 ```
 
 ### Bookmark
 
-Add `Code` as a bookmark in Nautilus.
+Add `Local` as a bookmark in Nautilus.
