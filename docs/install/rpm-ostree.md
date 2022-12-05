@@ -1,12 +1,11 @@
 # rpm-ostree
 
-## Upgrade and Install
+## Upgrade, Install and Remove
 
 ```bash
 rpm-ostree upgrade
-rpm-ostree install gnome-tweaks
-rpm-ostree install fish
-rpm-ostree install rclone
+rpm-ostree install gnome-tweaks fish rclone
+rpm-ostree override remove firefox firefox-langpacks gnome-tour
 ```
 
 ## Nvidia Drivers
