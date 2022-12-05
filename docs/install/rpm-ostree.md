@@ -1,6 +1,6 @@
 # rpm-ostree
 
-## Upgrade, Install, and Remove
+## Upgrade and Install
 
 ```bash
 rpm-ostree upgrade
