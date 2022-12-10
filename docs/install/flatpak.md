@@ -45,4 +45,5 @@ flatpak install flathub org.libretro.RetroArch -y
 flatpak install flathub org.yuzu_emu.yuzu -y
 flatpak install flathub sh.ppy.osu -y
 flatpak install flathub net.veloren.airshipper -y
+flatpak install flathub io.github.spacingbat3.webcord -y
 ```
