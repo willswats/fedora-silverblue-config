@@ -1,8 +1,8 @@
 # Firefox
 
 1. Delete all bookmarks.
-2. Add and set [Brave Search](https://search.brave.com/) as the default search engine.
-3. Remove all search engines except for Brave Search.
+2. Set DuckDuckGo as the default search engine.
+3. Remove all search engines except for DuckDuckGo.
 4. Turn on "Block new requests asking to allow notifications".
 5. Turn off "Autofill credit cards".
 6. Sign in to Firefox account (other settings are synced).
