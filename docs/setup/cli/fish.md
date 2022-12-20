@@ -1,4 +1,4 @@
 # fish
 
-1. Follow the installation instructions [here](https://github.com/willswats/fish-config)
-2. Add the `config/fish` folder as a bookmark in Nautilus.
+1. Copy the `config.fish` file to `~/.config/fish`.
+2. Add the `fish` directory as a bookmark in Nautilus.
