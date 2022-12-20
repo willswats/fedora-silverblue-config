@@ -16,11 +16,8 @@ alias mpv="flatpak run io.mpv.Mpv"
 # Add docker alias for podman
 alias docker="podman"
 
-# Set PATH for cargo
-set PATH $HOME/.cargo/bin $PATH
-
 # Set PATH for fnm
 set PATH $HOME/.local/share/fnm $PATH
 
-# Set PATH for pnpm
-set PATH $HOME/.local/share/pnpm $PATH
+# Set PATH for cargo
+set PATH $HOME/.cargo/bin $PATH
