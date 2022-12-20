@@ -38,7 +38,7 @@ My Fedora Silverblue config.
 4. [rclone](./docs/setup/cli/rclone.md)
 5. [toolbox](./docs/setup/cli/toolbox.md)
 6. [rustup](./docs/setup/cli/rustup.md)
-7. [fnm](./docs/setup/cli/fnm.md)
+7. [pnpm](./docs/setup/cli/pnpm.md)
 
 ### system
 
