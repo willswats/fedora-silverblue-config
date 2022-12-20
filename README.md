@@ -39,6 +39,7 @@ My Fedora Silverblue config.
 5. [toolbox](./docs/setup/cli/toolbox.md)
 6. [rustup](./docs/setup/cli/rustup.md)
 7. [fnm](./docs/setup/cli/fnm.md)
+8. [pnpm](./docs/setup/cli/fnm.md)
 
 ### system
 

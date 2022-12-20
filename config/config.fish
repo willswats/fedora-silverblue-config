@@ -19,6 +19,8 @@ alias docker="podman"
 # Set PATH for cargo
 set PATH $HOME/.cargo/bin $PATH
 
+# Set PATH for fnm
+set PATH $HOME/.local/share/fnm $PATH
+
 # Set PATH for pnpm
-export PNPM_HOME="/var/home/will/.local/share/pnpm"
-export PATH="$PNPM_HOME:$PATH"
+set PATH $HOME/.local/share/pnpm $PATH

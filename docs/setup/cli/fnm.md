@@ -17,9 +17,3 @@ fnm env > ~/.config/fish/conf.d/fnm.fish
 ```bash
 fnm completions --shell=fish > ~/.config/fish/completions/fnm.fish
 ```
-
-## Enable corepack
-
-```bash
-corepack enable
-```
