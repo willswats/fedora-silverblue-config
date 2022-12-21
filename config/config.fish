@@ -15,6 +15,3 @@ alias mpv="flatpak run io.mpv.Mpv"
 
 # Add docker alias for podman
 alias docker="podman"
-
-# Set PATH for fnm
-set PATH $HOME/.local/share/fnm $PATH
