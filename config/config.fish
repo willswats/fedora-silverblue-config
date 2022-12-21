@@ -15,3 +15,6 @@ alias mpv="flatpak run io.mpv.Mpv"
 
 # Add docker alias for podman
 alias docker="podman"
+
+# Set PATH for cargo
+set PATH $HOME/.cargo/bin $PATH
