@@ -37,9 +37,8 @@ My Fedora Silverblue config.
 3. [ssh](./docs/setup/cli/ssh.md)
 4. [rclone](./docs/setup/cli/rclone.md)
 5. [toolbox](./docs/setup/cli/toolbox.md)
-6. [rustup](./docs/setup/cli/rustup.md)
-7. [fnm](./docs/setup/cli/fnm.md)
-8. [pnpm](./docs/setup/cli/fnm.md)
+6. [fnm](./docs/setup/cli/fnm.md)
+7. [rustup](./docs/setup/cli/rustup.md)
 
 ### system
 

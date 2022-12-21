@@ -18,6 +18,3 @@ alias docker="podman"
 
 # Set PATH for fnm
 set PATH $HOME/.local/share/fnm $PATH
-
-# Set PATH for cargo
-set PATH $HOME/.cargo/bin $PATH
