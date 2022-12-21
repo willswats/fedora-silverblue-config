@@ -18,6 +18,12 @@ fnm env > ~/.config/fish/conf.d/fnm.fish
 fnm completions --shell=fish > ~/.config/fish/completions/fnm.fish
 ```
 
+## Install node
+
+```bash
+fnm install --lts
+```
+
 ## Install pNpM
 
 ```bash
