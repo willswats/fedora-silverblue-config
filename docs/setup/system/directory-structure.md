@@ -4,9 +4,8 @@
 
 ```bash
 mkdir ~/Drive
-mkdir ~/AppImages
-mkdir -p ~/Local/GitHub
-mkdir -p ~/Local/Temp
+mkdir -p ~/Local/AppImages
+mkdir -p ~/Local/Repositories
 ```
 
 ### Bookmark
