@@ -23,7 +23,6 @@ Location Services: Disabled
 ## Power
 
 ```text
-Power Mode: Performance
 Screen Blank: 15 minutes
 ```
 

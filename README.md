@@ -7,8 +7,8 @@ My Fedora Silverblue config.
 - [Installation](#installation)
 - [Setup](#setup)
   - [gui](#gui)
-  - [cli](#cli)
   - [system](#system)
+  - [cli](#cli)
 
 ## Installation
 
@@ -30,6 +30,10 @@ My Fedora Silverblue config.
 9. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
 10. [Steam](./docs/setup/gui/steam.md)
 
+### system
+
+1. [Directory Structure](./docs/setup/system/directory-structure.md)
+
 ### cli
 
 1. [fish](./docs/setup/cli/fish.md)
@@ -38,7 +42,3 @@ My Fedora Silverblue config.
 4. [rclone](./docs/setup/cli/rclone.md)
 5. [toolbox](./docs/setup/cli/toolbox.md)
 6. [rustup](./docs/setup/cli/rustup.md)
-
-### system
-
-1. [Directory Structure](./docs/setup/system/directory-structure.md)
