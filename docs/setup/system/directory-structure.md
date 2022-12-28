@@ -4,6 +4,7 @@
 
 ```bash
 mkdir ~/Drive
+mkdir ~/AppImages
 mkdir -p ~/Local/GitHub
 mkdir -p ~/Local/Temp
 ```

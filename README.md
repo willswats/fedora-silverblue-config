@@ -14,6 +14,7 @@ My Fedora Silverblue config.
 
 1. [rpm-ostree](./docs/install/rpm-ostree.md)
 2. [flatpak](./docs/install/flatpak.md)
+3. [appimage](./docs/install/appimage.md)
 
 ## Setup
 
@@ -22,13 +23,12 @@ My Fedora Silverblue config.
 1. [GNOME Settings](./docs/setup/gui/gnome-settings.md)
 2. [GNOME Tweaks](./docs/setup/gui/gnome-tweaks.md)
 3. [GNOME Terminal](./docs/setup/gui/gnome-terminal.md)
-4. [GNOME Disks](./docs/setup/gui/gnome-disks.md)
-5. [Extension Manager](./docs/setup/gui/extension-manager.md)
-6. [Firefox](./docs/setup/gui/firefox.md)
-7. [VSCodium](./docs/setup/gui/vscodium.md)
-8. [mpv](./docs/setup/gui/mpv.md)
-9. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
-10. [Steam](./docs/setup/gui/steam.md)
+4. [Extension Manager](./docs/setup/gui/extension-manager.md)
+5. [Firefox](./docs/setup/gui/firefox.md)
+6. [VSCodium](./docs/setup/gui/vscodium.md)
+7. [mpv](./docs/setup/gui/mpv.md)
+8. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
+9. [Steam](./docs/setup/gui/steam.md)
 
 ### system
 

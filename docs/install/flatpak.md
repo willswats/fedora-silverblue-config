@@ -29,6 +29,7 @@ flatpak install flathub io.mpv.Mpv -y
 flatpak install flathub com.interversehq.qView -y
 flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub de.haeckerfelix.Fragments -y
+flatpak install flathub com.leinardi.gst -y
 ```
 
 ### System
