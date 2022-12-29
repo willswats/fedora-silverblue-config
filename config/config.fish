@@ -18,3 +18,6 @@ alias docker="podman"
 
 # Set PATH for cargo
 set PATH $HOME/.cargo/bin $PATH
+
+# fnm use-on-cd
+fnm env --use-on-cd | source
