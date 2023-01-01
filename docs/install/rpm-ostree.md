@@ -4,7 +4,7 @@
 
 ```bash
 rpm-ostree upgrade
-rpm-ostree install gnome-tweaks fish rclone
+rpm-ostree install fish rclone-browser gnome-tweaks
 rpm-ostree override remove firefox firefox-langpacks gnome-tour
 ```
 
