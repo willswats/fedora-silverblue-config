@@ -25,6 +25,7 @@ flatpak install flathub org.gnome.Boxes -y
 flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub org.kde.kdenlive -y
 flatpak install flathub com.obsproject.Studio -y
+flatpak install flathub com.spotify.Client -y
 flatpak install flathub io.mpv.Mpv -y
 flatpak install flathub com.interversehq.qView -y
 flatpak install flathub com.github.tchx84.Flatseal -y
