@@ -17,3 +17,9 @@ Display web address bars when available: Enabled
 ### Steam Play
 
 Enable Steam Play for all other titles: Enabled
+
+## Friends List Settings
+
+### Notifications
+
+When a friend joins a game (show a notification): Disabled
