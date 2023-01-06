@@ -26,9 +26,8 @@ My Fedora Silverblue config.
 4. [Extension Manager](./docs/setup/gui/extension-manager.md)
 5. [Firefox](./docs/setup/gui/firefox.md)
 6. [VSCodium](./docs/setup/gui/vscodium.md)
-7. [mpv](./docs/setup/gui/mpv.md)
-8. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
-9. [Steam](./docs/setup/gui/steam.md)
+7. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
+8. [Steam](./docs/setup/gui/steam.md)
 
 ### system
 
