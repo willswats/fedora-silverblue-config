@@ -5,8 +5,9 @@
 ### Display
 
 ```text
-Show desktop notifications when the song changes: disabled
-See what your friends are playing: disabled
+Show announcements about new releases: Disabled
+Show desktop notifications when the song changes: Disabled
+See what your friends are playing: Disabled
 ```
 
 ### Startup and window behaviour
