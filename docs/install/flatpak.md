@@ -22,15 +22,13 @@ In "Software" disable the "fedora" flatpak repository and enable the "Fedora Fla
 flatpak install flathub org.mozilla.firefox -y
 flatpak install flathub com.vscodium.codium -y
 flatpak install flathub org.gnome.Boxes -y
+flatpak install flathub com.github.tchx84.Flatseal -y
+flatpak install flathub com.obsproject.Studio -y
 flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub org.kde.kdenlive -y
-flatpak install flathub com.obsproject.Studio -y
-flatpak install flathub com.spotify.Client -y
 flatpak install flathub io.mpv.Mpv -y
 flatpak install flathub com.interversehq.qView -y
-flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub de.haeckerfelix.Fragments -y
-flatpak install flathub com.leinardi.gst -y
 ```
 
 ### System
@@ -42,10 +40,13 @@ flatpak install flathub com.mattjakeman.ExtensionManager -y
 ### Entertainment
 
 ```bash
+flatpak install flathub com.spotify.Client -y
+flatpak install flathub tech.feliciano.pocket-casts -y
+flatpak install flathub com.discordapp.Discord -y
 flatpak install flathub com.valvesoftware.Steam -y
+flatpak install flathub net.lutris.Lutris -y
 flatpak install flathub org.libretro.RetroArch -y
 flatpak install flathub org.yuzu_emu.yuzu -y
 flatpak install flathub sh.ppy.osu -y
 flatpak install flathub net.veloren.airshipper -y
-flatpak install flathub com.discordapp.Discord -y
 ```
