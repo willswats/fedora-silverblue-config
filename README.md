@@ -27,8 +27,9 @@ My Fedora Silverblue config.
 5. [Firefox](./docs/setup/gui/firefox.md)
 6. [VSCodium](./docs/setup/gui/vscodium.md)
 7. [Spotify](./docs/setup/gui/spotify.md)
-8. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
+8. [Discord](./docs/setup/gui/discord.md)
 9. [Steam](./docs/setup/gui/steam.md)
+10. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
 
 ### system
 
