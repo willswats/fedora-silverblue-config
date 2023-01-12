@@ -23,13 +23,14 @@ My Fedora Silverblue config.
 1. [GNOME Settings](./docs/setup/gui/gnome-settings.md)
 2. [GNOME Tweaks](./docs/setup/gui/gnome-tweaks.md)
 3. [GNOME Terminal](./docs/setup/gui/gnome-terminal.md)
-4. [Extension Manager](./docs/setup/gui/extension-manager.md)
-5. [Firefox](./docs/setup/gui/firefox.md)
-6. [VSCodium](./docs/setup/gui/vscodium.md)
-7. [Spotify](./docs/setup/gui/spotify.md)
-8. [Discord](./docs/setup/gui/discord.md)
-9. [Steam](./docs/setup/gui/steam.md)
-10. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
+4. [GNOME Web](./docs/setup/gui/gnome-web.md)
+5. [Extension Manager](./docs/setup/gui/extension-manager.md)
+6. [Firefox](./docs/setup/gui/firefox.md)
+7. [VSCodium](./docs/setup/gui/vscodium.md)
+8. [Spotify](./docs/setup/gui/spotify.md)
+9. [Discord](./docs/setup/gui/discord.md)
+10. [Steam](./docs/setup/gui/steam.md)
+11. [Mullvad VPN](./docs/setup/gui/mullvad-vpn.md)
 
 ### system
 

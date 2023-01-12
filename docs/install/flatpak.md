@@ -20,6 +20,7 @@ In "Software" disable the "fedora" flatpak repository and enable the "Fedora Fla
 
 ```bash
 flatpak install flathub org.mozilla.firefox -y
+flatpak install flathub org.gnome.Epiphany -y
 flatpak install flathub com.vscodium.codium -y
 flatpak install flathub org.gnome.Boxes -y
 flatpak install flathub com.github.tchx84.Flatseal -y
